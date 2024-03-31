@@ -1,4 +1,6 @@
 <div id="header" align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VidjZ6ZzM1bG52NnExMGZrMndoeGJrd3hiMGhiazI1bmU3cHYydCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif"/>
+  <p/>
 <img src="https://www.codewars.com/users/xaosland/badges/large" alt="Me"/>
 
   <div id="badges">
@@ -10,7 +12,7 @@
 </div>
 </div>
 
-
+<hr/>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
