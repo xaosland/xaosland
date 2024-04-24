@@ -1,12 +1,18 @@
-  /$$$$$$                                  /$$                           /$$     /$$                    
- /$$__  $$                                | $$                          | $$    |__/                    
-| $$  \__/  /$$$$$$  /$$$$$$$   /$$$$$$$ /$$$$$$    /$$$$$$  /$$$$$$$  /$$$$$$   /$$ /$$$$$$$   /$$$$$$ 
-| $$       /$$__  $$| $$__  $$ /$$_____/|_  $$_/   |____  $$| $$__  $$|_  $$_/  | $$| $$__  $$ /$$__  $$
-| $$      | $$  \ $$| $$  \ $$|  $$$$$$   | $$      /$$$$$$$| $$  \ $$  | $$    | $$| $$  \ $$| $$$$$$$$
-| $$    $$| $$  | $$| $$  | $$ \____  $$  | $$ /$$ /$$__  $$| $$  | $$  | $$ /$$| $$| $$  | $$| $$_____/
-|  $$$$$$/|  $$$$$$/| $$  | $$ /$$$$$$$/  |  $$$$/|  $$$$$$$| $$  | $$  |  $$$$/| $$| $$  | $$|  $$$$$$$
- \______/  \______/ |__/  |__/|_______/    \___/   \_______/|__/  |__/   \___/  |__/|__/  |__/ \_______/
- 
+  sSSs    sSSs_sSSs     .S_sSSs      sSSs  sdSS_SSSSSSbs   .S_SSSs     .S_sSSs    sdSS_SSSSSSbs   .S   .S_sSSs      sSSs  
+ d%%SP   d%%SP~YS%%b   .SS~YS%%b    d%%SP  YSSS~S%SSSSSP  .SS~SSSSS   .SS~YS%%b   YSSS~S%SSSSSP  .SS  .SS~YS%%b    d%%SP  
+d%S'    d%S'     `S%b  S%S   `S%b  d%S'         S%S       S%S   SSSS  S%S   `S%b       S%S       S%S  S%S   `S%b  d%S'    
+S%S     S%S       S%S  S%S    S%S  S%|          S%S       S%S    S%S  S%S    S%S       S%S       S%S  S%S    S%S  S%S     
+S&S     S&S       S&S  S%S    S&S  S&S          S&S       S%S SSSS%S  S%S    S&S       S&S       S&S  S%S    S&S  S&S     
+S&S     S&S       S&S  S&S    S&S  Y&Ss         S&S       S&S  SSS%S  S&S    S&S       S&S       S&S  S&S    S&S  S&S_Ss  
+S&S     S&S       S&S  S&S    S&S  `S&&S        S&S       S&S    S&S  S&S    S&S       S&S       S&S  S&S    S&S  S&S~SP  
+S&S     S&S       S&S  S&S    S&S    `S*S       S&S       S&S    S&S  S&S    S&S       S&S       S&S  S&S    S&S  S&S     
+S*b     S*b       d*S  S*S    S*S     l*S       S*S       S*S    S&S  S*S    S*S       S*S       S*S  S*S    S*S  S*b     
+S*S.    S*S.     .S*S  S*S    S*S    .S*P       S*S       S*S    S*S  S*S    S*S       S*S       S*S  S*S    S*S  S*S.    
+ SSSbs   SSSbs_sdSSS   S*S    S*S  sSS*S        S*S       S*S    S*S  S*S    S*S       S*S       S*S  S*S    S*S   SSSbs  
+  YSSP    YSSP~YSSY    S*S    SSS  YSS'         S*S       SSS    S*S  S*S    SSS       S*S       S*S  S*S    SSS    YSSP  
+                       SP                       SP               SP   SP               SP        SP   SP                  
+                       Y                        Y                Y    Y                Y         Y    Y                   
+                                                                                                                          
 <div id="header" align="center">
   <p/>
 <img src="https://www.codewars.com/users/xaosland/badges/large" alt="Me"/>
