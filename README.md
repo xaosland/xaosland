@@ -29,16 +29,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user={veluat}&theme=swift&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
 </a> <br/>
     <div>
-    <a href="https://github.com/veluat/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veluat&layout=compact&theme=swift" alt="Top Languages">
 </a>
         <img src="https://github.com/veluat/veluat/blob/main/gif-gif-gif.gif?raw=true" alt="gif" width="180">
     </div>
     <br/>
-<a href="https://www.codewars.com/users/veluat" target="_blank">
-  <img src="https://www.codewars.com/users/veluat/badges/micro" alt="Codewars Badge">
-</a>
-    <img src="https://komarev.com/ghpvc/?username=veluat" alt="views"></div>
 
 
 
