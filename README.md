@@ -31,11 +31,9 @@
     <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaosland&layout=compact&theme=swift" alt="Top Languages">
 </a>
-        <img src="https://github.com/xaosland/xaosland/blob/main/gif-gif-gif.gif?raw=true" alt="gif" width="180">
+        <img src="https://github.com/veluat/veluat/raw/main/gif-gif-gif.gif?raw=true?raw=true" alt="gif" width="180">
     </div>
     <br/>
-
-
 
 
 
