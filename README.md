@@ -1,3 +1,31 @@
+<pre>
+function printDeveloperInfo() {
+  const developer = {
+    name: "Vysochin Konstantin",
+     age: 38,
+    position: "FRONT-END DEVELOPER",
+    skills: [
+      "TypeScript",
+      "React",
+      "Redux",
+      "HTML",
+      "CSS",
+      "StyledComponents",
+      "Storybook",
+      "ReactHookForm",
+      "RadixUI / MaterialUI"
+    ],
+     projects: "https://github.com/xaosland"
+  };
+
+  console.log(developer.name);
+  console.log(developer.position);
+  console.log("Навыки:");
+  developer.skills.forEach(skill => console.log(skill));
+}
+printDeveloperInfo();
+</pre>
+</div>
 <div align="center">
 <table align="center">
      <tbody>
