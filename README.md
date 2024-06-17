@@ -1,4 +1,30 @@
 <div align="center">
+     
+function printDeveloperInfo() {
+  const developer = {
+    name: "Высочин Константин",
+    position: "FRONT-END DEVELOPER",
+    skills: [
+      "TypeScript",
+      "React",
+      "Redux",
+      "HTML",
+      "CSS",
+      "StyledComponents",
+      "Storybook",
+      "ReactHookForm",
+      "RadixUI / MaterialUI"
+    ]
+  };
+
+  console.log(developer.name);
+  console.log(developer.position);
+  console.log("Навыки:");
+  developer.skills.forEach(skill => console.log(skill));
+}
+
+printDeveloperInfo();
+     
 <table align="center">
      <tbody>
          <tr>
