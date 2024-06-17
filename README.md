@@ -26,12 +26,12 @@
     </table>
     
  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user={veluat}&theme=swift&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user={xaosland}&theme=swift&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
 </a> <br/>
     <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veluat&layout=compact&theme=swift" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaosland&layout=compact&theme=swift" alt="Top Languages">
 </a>
-        <img src="https://github.com/veluat/veluat/blob/main/gif-gif-gif.gif?raw=true" alt="gif" width="180">
+        <img src="https://github.com/xaosland/xaosland/blob/main/gif-gif-gif.gif?raw=true" alt="gif" width="180">
     </div>
     <br/>
 
