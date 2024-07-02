@@ -62,8 +62,7 @@ printDeveloperInfo();
         <img src="https://github.com/veluat/veluat/raw/main/gif-gif-gif.gif?raw=true?raw=true" alt="gif" width="180">
     </div>
     <br/>
-
-    <img src="https://fs04.gcfiles.net/fileservice/file/download/a/177331/sc/43/h/82c04d45af35604d1a6b735e1367e093.png" alt="Technology">
-
-
+    <div>
+              <img src="https://fs04.gcfiles.net/fileservice/file/download/a/177331/sc/43/h/82c04d45af35604d1a6b735e1367e093.png" alt="gif" width="800">
+    </div>
  
