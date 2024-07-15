@@ -52,7 +52,9 @@ printDeveloperInfo();
          </tr>
      </tbody>
     </table>
-    
+  
+    <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=xaosland&theme=radical"/>
+
  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user={xaosland}&theme=swift&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
 </a> <br/>
