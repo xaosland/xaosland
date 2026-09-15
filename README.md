@@ -29,8 +29,6 @@ printDeveloperInfo();
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user={xaosland}&theme=swift&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
 </a> <br/>
-    <div>
-
     <br/>
     <div>
       <h2>I'm happy with:</h2>
